@@ -1,4 +1,4 @@
-# Data Science Assignment â€“ Web3 Trading Team
+# Data Science Assignment 
 
 ## Overview
 This project analyzes the relationship between **trader behavior** (profitability, risk, volume, leverage) 
@@ -46,4 +46,3 @@ Final summarized findings are documented in **ds_report.pdf**.
 
 ## Author
 - Candidate Name: `Umaira Ansari
-- Submission for **Web3 Trading Team“ Data Science Assignment**
